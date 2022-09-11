@@ -1,0 +1,26 @@
+.cart__btn {
+    width: 100px;
+    height: 40px;
+    background-color: transparent;
+    color: white;
+    transition: 0.5s;
+    border-radius: 20px;
+    font-size: 20px;
+    border: none;
+}
+
+.cart__btn:hover {
+    background-color: #5454D4;
+    border-radius: 20px;
+    color: white;
+    transition: 0.5s;
+}
+
+.buy-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 3%;
+    height: 100px;
+}

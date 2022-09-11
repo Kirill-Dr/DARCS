@@ -1,0 +1,20 @@
+.navbar-logo {
+    height: 100px;
+    width: 100%;
+}
+
+.navbar-btns {
+    background-color: transparent;
+    margin-right: 30px;
+    cursor: pointer;
+    margin-left: 30px;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+    height: 40px;
+}
+
+.navbar-btns:hover {
+    background-color: #4a4a4a;
+}

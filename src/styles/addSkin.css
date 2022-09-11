@@ -1,0 +1,90 @@
+.add-container {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 1%;
+}
+
+.add-title {
+    font-size: 50px;
+    text-align: center;
+}
+
+.add-inp {
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    outline: none;
+    border: 5px solid #5454D4;
+    border-radius: 20px;
+    font-size: 35px;
+    padding: 2%;
+    margin-top: 5%;
+}
+
+.add-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+
+.add-skin-btn {
+    border: none;
+    background-color: #5454D4;
+    padding: 2%;
+    color: white;
+    font-size: 30px;
+    width: 40%;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+@media all and (max-width: 950px) {
+    .add-title {
+        font-size: 40px;
+    }
+
+    .add-inp {
+        font-size: 25px;
+    }
+
+    .add-skin-btn {
+        font-size: 20px;
+        width: 60%;
+    }
+}
+
+@media all and (max-width: 720px) {
+    .add-title {
+        font-size: 30px;
+    }
+
+    .add-inp {
+        font-size: 15px;
+        border: 3px solid #5454D4;
+    }
+}
+
+@media all and (max-width: 550px) {
+    .add-skin-btn {
+        font-size: 15px;
+        width: 80%;
+    }
+}
+
+@media all and (max-width: 400px) {
+    .add-title {
+        font-size: 20px;
+    }
+
+    .add-inp {
+        font-size: 10px;
+        border: 1px solid #5454D4;
+    }
+
+    .add-skin-btn {
+        font-size: 10px;
+    }
+}

@@ -1,0 +1,68 @@
+.edit-container {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 1%;
+}
+
+.edit-title {
+    font-size: 50px;
+    text-align: center;
+}
+
+.edit-inp {
+    background-color: transparent;
+    border-radius: 20px;
+    color: white;
+    font-size: 35px;
+    margin: 3%;
+    text-align: center;
+    border: 5px solid #5454D4;
+    outline: none;
+    padding: 2%;
+}
+
+.edit-container-btn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.edit-skin-btn {
+    background-color: #5454D4;
+    color: white;
+    width: 50%;
+    margin-top: 2%;
+    border: none;
+    border-radius: 20px;
+    font-size: 30px;
+    padding: 1%;
+    cursor: pointer;
+}
+
+@media all and (max-width: 1000px) {
+    .edit-title {
+        font-size: 30px;
+    }
+
+    .edit-inp {
+        font-size: 20px;
+        border: 3px solid #5454D4;
+    }
+
+    .edit-skin-btn {
+        font-size: 20px;
+    }
+}
+
+@media all and (max-width: 620px) {
+    .edit-container {
+        width: 60%;
+    }
+
+    .edit-skin-btn {
+        width: 70%;
+    }
+}

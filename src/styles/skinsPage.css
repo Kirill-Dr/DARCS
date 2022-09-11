@@ -1,0 +1,21 @@
+.skin-page-container {
+    display: flex;
+}
+
+.skin-filter {
+    width: 20%;
+}
+
+.filter-title {
+    font-size: 50px;
+    text-align: center;
+}
+
+.skin-list {
+    width: 80%;
+}
+
+.skin-pagination {
+    display: flex;
+    justify-content: center;
+}

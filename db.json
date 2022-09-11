@@ -1,0 +1,430 @@
+{
+  "popularSkins": [
+    {
+      "weapon": "AK-47",
+      "skin": "Gold Arabesque",
+      "rarity": "Covert",
+      "image": "https://www.csgodatabase.com/images/skins/webp/AK-47_Gold_Arabesque.webp",
+      "price": "1,379.82",
+      "id": 37
+    },
+    {
+      "weapon": "AWP",
+      "skin": "Desert Hydra",
+      "rarity": "Covert",
+      "image": "https://www.csgodatabase.com/images/skins/webp/AWP_Desert_Hydra.webp",
+      "price": "1,699.95",
+      "id": 38
+    },
+    {
+      "weapon": "M4A4",
+      "skin": "The Coalition",
+      "rarity": "Covert",
+      "image": "https://www.csgodatabase.com/images/skins/webp/M4A4_The_Coalition.webp",
+      "price": "115.39",
+      "id": 39
+    },
+    {
+      "weapon": "Glock-18",
+      "skin": "Gamma Doppler",
+      "rarity": "Covert",
+      "image": "https://www.csgodatabase.com/images/skins/webp/Glock-18_Gamma_Doppler.webp",
+      "price": "20.18",
+      "id": 40
+    },
+    {
+      "weapon": "M4A1-S",
+      "skin": "Imminent Danger",
+      "rarity": "Covert",
+      "image": "https://www.csgodatabase.com/images/skins/webp/M4A1-S_Imminent_Danger.webp",
+      "price": "120",
+      "id": 41
+    },
+    {
+      "weapon": "Bayonet",
+      "skin": "Marble Fade",
+      "rarity": "Covert",
+      "image": "https://www.csgodatabase.com/images/knives/webp/Bayonet_Marble_Fade.webp",
+      "price": "790",
+      "id": 42
+    },
+    {
+      "weapon": "Karambit",
+      "skin": "Autotronic",
+      "rarity": "Covert",
+      "image": "https://www.csgodatabase.com/images/knives/webp/Karambit_Autotronic.webp",
+      "price": "1,700",
+      "id": 43
+    },
+    {
+      "weapon": "Moto Gloves",
+      "skin": "Cool Mint",
+      "rarity": "Extraordinary",
+      "image": "https://www.csgodatabase.com/images/gloves/webp/Moto_Gloves_Cool_Mint.webp",
+      "price": "365.81",
+      "id": 44
+    },
+    {
+      "weapon": "Specialist Gloves",
+      "skin": "Crimson Web",
+      "rarity": "Extraordinary",
+      "image": "https://www.csgodatabase.com/images/gloves/webp/Specialist_Gloves_Crimson_Web.webp",
+      "price": "155.09",
+      "id": 45
+    },
+    {
+      "weapon": "AWP",
+      "skin": "Fade",
+      "rarity": "Covert",
+      "image": "https://www.csgodatabase.com/images/skins/webp/AWP_Fade.webp",
+      "price": "809.30",
+      "id": 46
+    },
+    {
+      "weapon": "AK-47",
+      "skin": "X-Ray",
+      "rarity": "Covert",
+      "image": "https://www.csgodatabase.com/images/skins/webp/AK-47_X-Ray.webp",
+      "price": "272.97",
+      "id": 47
+    },
+    {
+      "weapon": "AWP",
+      "skin": "The Prince",
+      "rarity": "Covert",
+      "image": "https://www.csgodatabase.com/images/skins/webp/AWP_The_Prince.webp",
+      "price": "180",
+      "id": 48
+    },
+    {
+      "weapon": "AWP",
+      "skin": "Gungnir",
+      "rarity": "Covert",
+      "image": "https://www.csgodatabase.com/images/skins/webp/AWP_Gungnir.webp",
+      "price": "150",
+      "id": 49
+    },
+    {
+      "weapon": "AK-47",
+      "skin": "Wild Lotus",
+      "rarity": "Covert",
+      "image": "https://www.csgodatabase.com/images/skins/webp/AK-47_Wild_Lotus.webp",
+      "price": "135",
+      "id": 50
+    },
+    {
+      "weapon": "Stiletto Knife",
+      "skin": "Case Hardened",
+      "rarity": "Covert",
+      "image": "https://www.csgodatabase.com/images/knives/webp/Stiletto_Knife_Case_Hardened.webp",
+      "price": "332",
+      "id": 51
+    },
+    {
+      "weapon": "Stiletto Knife",
+      "skin": "Tiger Tooth",
+      "rarity": "Covert",
+      "image": "https://www.csgodatabase.com/images/knives/webp/Stiletto_Knife_Tiger_Tooth.webp",
+      "price": "376",
+      "id": 52
+    },
+    {
+      "weapon": "Hand Wraps",
+      "skin": "CAUTION!",
+      "rarity": "Extraordinary",
+      "image": "https://www.csgodatabase.com/images/gloves/webp/Hand_Wraps_CAUTION!.webp",
+      "price": "229.59",
+      "id": 53
+    }
+  ],
+  "skins": [
+    {
+      "weapon": "SG-553",
+      "skin": "Integrale",
+      "rarity": "Classified",
+      "image": "https://www.csgodatabase.com/images/skins/webp/SG_553_Integrale.webp",
+      "price": "10.50",
+      "id": 1
+    },
+    {
+      "weapon": "Dual Berettas",
+      "skin": "Twin Turbo",
+      "rarity": "Classified",
+      "image": "https://www.csgodatabase.com/images/skins/webp/Dual_Berettas_Twin_Turbo.webp",
+      "price": "2.23",
+      "id": 2
+    },
+    {
+      "weapon": "AK-47",
+      "skin": "Safety Net",
+      "rarity": "Restricted",
+      "image": "https://www.csgodatabase.com/images/skins/webp/AK-47_Safety_Net.webp",
+      "price": "4.78",
+      "id": 3
+    },
+    {
+      "weapon": "P250",
+      "skins": "Vino Primo",
+      "rarity": "Restricted",
+      "image": "https://www.csgodatabase.com/images/skins/webp/P250_Vino_Primo.webp",
+      "price": "1.94",
+      "id": 4
+    },
+    {
+      "weapon": "MP7",
+      "skins": "Fade",
+      "rarity": "Restricted",
+      "image": "https://www.csgodatabase.com/images/skins/webp/MP7_Fade.webp",
+      "price": "4.09",
+      "id": 5
+    },
+    {
+      "weapon": "USP-S",
+      "skins": "Check Engine",
+      "rarity": "Mil-spec",
+      "image": "https://www.csgodatabase.com/images/skins/webp/USP-S_Check_Engine.webp",
+      "price": "0.70",
+      "id": 6
+    },
+    {
+      "weapon": "M4A4",
+      "skins": "Converter",
+      "rarity": "Mil-spec",
+      "image": "https://www.csgodatabase.com/images/skins/webp/M4A4_Converter.webp",
+      "price": "0.75",
+      "id": 7
+    },
+    {
+      "weapon": "SSG 08",
+      "skins": "Hand Brake",
+      "rarity": "Mil-spec",
+      "image": "https://www.csgodatabase.com/images/skins/webp/SSG_08_Hand_Brake.webp",
+      "price": "0.52",
+      "id": 8
+    },
+    {
+      "weapon": "Sawed-Off",
+      "skins": "Brake Light",
+      "rarity": "Mil-spec",
+      "image": "https://www.csgodatabase.com/images/skins/webp/Sawed-Off_Brake_Light.webp",
+      "price": "0.65",
+      "id": 9
+    },
+    {
+      "weapon": "Glock-18",
+      "skins": "High Beam",
+      "rarity": "Industrial",
+      "image": "https://www.csgodatabase.com/images/skins/webp/Glock-18_High_Beam.webp",
+      "price": "0.18",
+      "id": 10
+    },
+    {
+      "weapon": "R8 Revolver",
+      "skins": "Nitro",
+      "rarity": "Industrial",
+      "image": "https://www.csgodatabase.com/images/skins/webp/R8_Revolver_Nitro.webp",
+      "price": "0.08",
+      "id": 11
+    },
+    {
+      "weapon": "MAC-10",
+      "skins": "Calf Skin",
+      "rarity": "Industrial",
+      "image": "https://www.csgodatabase.com/images/skins/webp/MAC-10_Calf_Skin.webp",
+      "price": "0.08",
+      "id": 12
+    },
+    {
+      "weapon": "PP-Bizon",
+      "skins": "Candy Apple",
+      "rarity": "Industrial",
+      "image": "https://www.csgodatabase.com/images/skins/webp/PP-Bizon_Candy_Apple.webp",
+      "price": "0.09",
+      "id": 13
+    },
+    {
+      "weapon": "MP5-SD",
+      "skins": "Dirt Drop",
+      "rarity": "Consumer",
+      "image": "https://www.csgodatabase.com/images/skins/webp/MP5-SD_Dirt_Drop.webp",
+      "price": "0.03",
+      "id": 14
+    },
+    {
+      "weapon": "MP9",
+      "skins": "Slide",
+      "rarity": "Consumer",
+      "image": "https://www.csgodatabase.com/images/skins/webp/MP9_Slide.webp",
+      "price": "0.03",
+      "id": 15
+    },
+    {
+      "weapon": "AUG",
+      "skins": "Sweeper",
+      "rarity": "Consumer",
+      "image": "https://www.csgodatabase.com/images/skins/webp/AUG_Sweeper.webp",
+      "price": "0.03",
+      "id": 16
+    },
+    {
+      "weapon": "UMP-45",
+      "skins": "Mudder",
+      "rarity": "Consumer",
+      "image": "https://www.csgodatabase.com/images/skins/webp/UMP-45_Mudder.webp",
+      "price": "0.03",
+      "id": 17
+    },
+    {
+      "weapon": "MAG-7",
+      "skins": "Rust Coat",
+      "rarity": "Consumer",
+      "image": "https://www.csgodatabase.com/images/skins/webp/MAG-7_Rust_Coat.webp",
+      "price": "0.03",
+      "id": 18
+    },
+    {
+      "weapon": "M4A1-S",
+      "skins": "Control Panel",
+      "rarity": "Classified",
+      "image": "https://www.csgodatabase.com/images/skins/webp/M4A1-S_Control_Panel.webp",
+      "price": "9.97",
+      "id": 19
+    },
+    {
+      "weapon": "Tec-9",
+      "skins": "Remote Control",
+      "rarity": "Classified",
+      "image": "https://www.csgodatabase.com/images/skins/webp/Tec-9_Remote_Control.webp",
+      "price": "2.27",
+      "id": 20
+    },
+    {
+      "weapon": "Glock-18",
+      "skins": "Nuclear Garden",
+      "rarity": "Restricted",
+      "image": "https://www.csgodatabase.com/images/skins/webp/Glock-18_Nuclear_Garden.webp",
+      "price": "3.97",
+      "id": 21
+    },
+    {
+      "weapon": "MAG-7",
+      "skins": "Core Breach",
+      "rarity": "Restricted",
+      "image": "https://www.csgodatabase.com/images/skins/webp/MAG-7_Core_Breach.webp",
+      "price": "1.16",
+      "id": 22
+    },
+    {
+      "weapon": "AUG",
+      "skins": "Random Access",
+      "rarity": "Restricted",
+      "image": "https://www.csgodatabase.com/images/skins/webp/AUG_Random_Access.webp",
+      "price": "1.45",
+      "id": 23
+    },
+    {
+      "weapon": "AWP",
+      "skins": "Acheron",
+      "rarity": "Mil-spec",
+      "image": "https://www.csgodatabase.com/images/skins/webp/AWP_Acheron.webp",
+      "price": "0.91",
+      "id": 24
+    },
+    {
+      "weapon": "P250",
+      "skins": "Exchanger",
+      "rarity": "Mil-spec",
+      "image": "https://www.csgodatabase.com/images/skins/webp/P250_Exchanger.webp",
+      "price": "0.32",
+      "id": 25
+    },
+    {
+      "weapon": "MP5-SD",
+      "skins": "Co-Processor",
+      "rarity": "Mil-spec",
+      "image": "https://www.csgodatabase.com/images/skins/webp/MP5-SD_Co-Processor.webp",
+      "price": "0.31",
+      "id": 26
+    },
+    {
+      "weapon": "P90",
+      "skins": "Facility Negative",
+      "rarity": "Mil-spec",
+      "image": "https://www.csgodatabase.com/images/skins/webp/P90_Facility_Negative.webp",
+      "price": "0.34",
+      "id": 27
+    },
+    {
+      "weapon": "Galil AR",
+      "skins": "Cold Fusion",
+      "rarity": "Industrial",
+      "image": "https://www.csgodatabase.com/images/skins/webp/Galil_AR_Cold_Fusion.webp",
+      "price": "0.08",
+      "id": 28
+    },
+    {
+      "weapon": "Negev",
+      "skins": "Bulkhead",
+      "rarity": "Industrial",
+      "image": "https://www.csgodatabase.com/images/skins/webp/Negev_Bulkhead.webp",
+      "price": "0.08",
+      "id": 29
+    },
+    {
+      "weapon": "MP7",
+      "skins": "Motherboard",
+      "rarity": "Industrial",
+      "image": "https://www.csgodatabase.com/images/skins/webp/MP7_Motherboard.webp",
+      "price": "0.08",
+      "id": 30
+    },
+    {
+      "weapon": "M4A4",
+      "skins": "Mainframe",
+      "rarity": "Industrial",
+      "image": "https://www.csgodatabase.com/images/skins/webp/M4A4_Mainframe.webp",
+      "price": "0.08",
+      "id": 31
+    },
+    {
+      "weapon": "Nova",
+      "skins": "Mandrel",
+      "rarity": "Consumer",
+      "image": "https://www.csgodatabase.com/images/skins/webp/Nova_Mandrel.webp",
+      "price": "0.03",
+      "id": 32
+    },
+    {
+      "weapon": "Five-SeveN",
+      "skins": "Coolant",
+      "rarity": "Consumer",
+      "image": "https://www.csgodatabase.com/images/skins/webp/Five-SeveN_Coolant.webp",
+      "price": "0.03",
+      "id": 33
+    },
+    {
+      "weapon": "UMP-45",
+      "skins": "Facility Dark",
+      "rarity": "Consumer",
+      "image": "https://www.csgodatabase.com/images/skins/webp/UMP-45_Facility_Dark.webp",
+      "price": "0.03",
+      "id": 34
+    },
+    {
+      "weapon": "P250",
+      "skins": "Facility Draft",
+      "rarity": "Consumer",
+      "image": "https://www.csgodatabase.com/images/skins/webp/P250_Facility_Draft.webp",
+      "price": "0.03",
+      "id": 35
+    },
+    {
+      "weapon": "PP-Bizon",
+      "skins": "Facility Sketch",
+      "rarity": "Consumer",
+      "image": "https://www.csgodatabase.com/images/skins/webp/PP-Bizon_Facility_Sketch.webp",
+      "price": "0.03",
+      "id": 36
+    }
+  ]
+}

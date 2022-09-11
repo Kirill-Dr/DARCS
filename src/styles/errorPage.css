@@ -1,0 +1,40 @@
+.error-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 1%;
+}
+
+.error-img {
+    height: 450px;
+}
+
+.error-code {
+    font-size: 80px;
+    margin: 0;
+}
+
+.error-title {
+    font-size: 40px;
+}
+
+.home-btn-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-btn {
+    background-color: #5454D4;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    font-size: 30px;
+    padding: 2%;
+    width: 45%;
+}
+
