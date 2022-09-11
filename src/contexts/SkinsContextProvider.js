@@ -84,7 +84,7 @@ const SkinsContextProvider = ({ children }) => {
             search.delete(query);
         } else {
             search.set(query, value);
-        };
+        }
         const url = `${location.pathname}?${search.toString()}`;
         navigate(url);
     };
